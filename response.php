@@ -13,7 +13,7 @@ function Fgcfc_setting_page() {
             <li class="embed_advance_form" id="embed_advance_form" cursor="pointer">Embed Code</li>
         </ul>
         <div id="container" class="iframe_div" >
-            <iframe src="http://www.formget.com/app/login" name="iframe" id="iframebox" width="95%" height="700px">
+            <iframe src="http://www.formget.com/app" name="iframe" id="iframebox" width="95%" height="700px">
             </iframe>
         </div>
         <div id="embed_advance_form_div" class="embed_advance_form_div" >
