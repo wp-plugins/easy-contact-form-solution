@@ -1,7 +1,7 @@
 <?php
 add_action('admin_menu', 'fgcfc_menu_page');
 function fgcfc_menu_page() {
-    add_menu_page('Fgcf', 'Fgcf contact form', 'manage_options', 'Fgcf_page', 'Fgcfc_setting_page', '', '99');
+    add_menu_page('Fgcf', 'CF Contact Form', 'manage_options', 'fgcf_page', 'Fgcfc_setting_page', '', '99');
 }
 function Fgcfc_setting_page() {
     $url = plugins_url();
@@ -17,7 +17,7 @@ function Fgcfc_setting_page() {
             </iframe>
         </div>
         <div id="embed_advance_form_div" class="embed_advance_form_div" >
-            <p> <h3>Create your form and save it, after saving you will get an embed code.</br>Paste here your iframe code by copying it, and then click on save button. </h3> </p>
+            <p> <h3>Create your form and save it, after saving you will get an embed code.</br>Paste here your iframe and tabbed code by copying it, and then click on save button. </h3> </p>
                 <h1>Embed Code</h1>
                 <textarea rows="10" cols="125" name="embed_code" id="embed_code"> <?php echo Fgcfc::fgcfc_embeded_code() ?> </textarea></br>
                 <button class="embed_code_save" id="embed_code_save"> save </button>
@@ -26,7 +26,7 @@ function Fgcfc_setting_page() {
         </div>
         <div class="entries_content" id="entries_content" >
             <p>
-            <h3> You can also try our Advance Contact Form builder <a href="http://www.formget.com/app/login" target="_blank"> Try Now </a></h3>
+            <h2> You can also try our Advance Contact Form builder <a href="http://www.formget.com/app" target="_blank"> Try Now </a></h2>
             Just drag and drop your fields and create your custom form.
             </p></br>
             <h1>Existing Entries:</h1>           
