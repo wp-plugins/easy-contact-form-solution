@@ -62,7 +62,10 @@ jQuery(document).ready(function() {
             "display":"block"
         });
     });
-    jQuery('div#fg_close').click(function() {
+     jQuery('.close_popup').css({
+        "top": "0px",
+        "margin-top": "-1px"
+    });  jQuery('div#fg_close').click(function() {
         jQuery('input#fgcf_form_name').css({"border": "solid 1px #09C"});
          jQuery('input#fgcf_form_email').css({"border": "solid 1px #09C"});
           jQuery('input#fgcf_form_subject').css({"border": "solid 1px #09C"});
