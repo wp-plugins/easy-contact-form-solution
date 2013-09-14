@@ -151,7 +151,7 @@ class Fgcfc {
             }
             $total_pages = ceil($total_records / 10);
             for ($i = 1; $i <= $total_pages; $i++) {
-                echo "<a href='admin.php?page=Fgcf_page&page_count=" . $i . "'>" . $i . "</a> ";
+                echo "<a href='admin.php?page=fgcf_page&page_count=" . $i . "'>" . $i . "</a> ";
             }
         }
         /**
