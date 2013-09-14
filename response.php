@@ -45,12 +45,7 @@ function Fgcfc_setting_page() {
 // Delete record from the Database
         if (isset($_GET['fgcf_del'])) {
             $id = $_GET['fgcf_del'];
-            $result = Fgcfc::fgcfc_delete_data($id);
-            if ($result == true) {
-                $site_url = site_url() . '/wp-admin/admin.php?page=Fgcf_page';
-                header('Location:' . $site_url);
-                exist();
-            }
+            Fgcfc::fgcfc_delete_data($id);
         }
         // update record from the Database
         if (isset($_POST['fgcf_form_id'])) {
