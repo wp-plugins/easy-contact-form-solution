@@ -18,7 +18,7 @@ jQuery(document).ready(function() {
      if (confirm('Are you sure you want to delete this entry')) {
     var pathname = window.location.pathname;
      var post_id = jQuery(this).attr("delete_id");
-     var completepath =  pathname + "?page=Fgcf_page&fgcf_del=" + post_id;
+     var completepath =  pathname + "?page=fgcf_page&fgcf_del=" + post_id;
    jQuery("a.delete_entry").attr("href", completepath);
 } 
     });
