@@ -86,11 +86,15 @@ class Fgcfc {
     function fgcfc_insert_data() {
         function fgcfc_text_ajax_process_request_submit() {
             global $wpdb;
+             $sanitized_name = sanitize_text_field($_POST['contact_name']);
+            $sanitized_email = sanitize_email($_POST['contact_email']);
+            $sanitized_subject = sanitize_text_field($_POST['contact_subject']); 
+            $sanitized_message = sanitize_text_field($_POST['contact_message']); 
             $data = array(
-                'user_name' => $_POST['contact_name'],
-                'user_email' => $_POST['contact_email'],
-                'user_subject' => $_POST['contact_subject'],
-                'user_message' => $_POST['contact_message']
+                'user_name' => $sanitized_name,
+                'user_email' => $sanitized_email ,
+                'user_subject' => $sanitized_subject,
+                'user_message' => $sanitized_message
             );
             $wpdb->insert(Fgcfc::$table_name, $data);
         }
