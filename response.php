@@ -36,7 +36,7 @@ function Fgcfc_setting_page() {
             echo "</div>";
             ?>
             <div id="update_div"><img id="close_popup_img" src="<?php echo plugins_url("image/close_popup.png", __FILE__); ?>" /><?php Fgcfc::fgcfc_update_form_entry(); ?></div>
-            <div id="entries_reply"><img id="close_popup_img" src="<?php echo plugins_url("image/close_popup.png", __FILE__); ?>" /><br /><?php Fgcfc::fgcfc_open_reply_window(); ?> </div>
+           
             <?php
         }
 
