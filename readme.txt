@@ -31,5 +31,9 @@ This section describes how to install the plugin and get it working.
 1. Visit menu Fgcf contact form to see your entries.
 
 == Screenshots ==
+1. screenshot of first step.
+ `/assets/screenshot-1.png`
 == Instructions ==
+1. Second Screenshot
+ `/assets/screenshot-2.png`
 == Upgrade Notice ==
