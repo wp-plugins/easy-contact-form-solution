@@ -31,9 +31,17 @@ This section describes how to install the plugin and get it working.
 1. Visit menu Fgcf contact form to see your entries.
 
 == Screenshots ==
-1. screenshot of first step.
- `/assets/screenshot-1.png`
-== Instructions ==
-1. Second Screenshot
- `/assets/screenshot-2.png`
+* Go to "Contact Form Builder" tab and create your form by clicking on form fields.
+
+* After creating your form, Register yourself through a registration popup. Your form is now ready for embedding on your site.
+
+* In order to add form to your website. Click the Embed link`/assets/screenshot-1.png`.
+
+4. Click on Tabbed Widget and copy the whole code by clicking on "Copy Code" button.
+
+5. Paste the copied code on "Emded Code" section in the plugin which appears on the "FormGet Contact Form" plugin dashboard inside WordPress Admin area.
+
+6. Your contact form will start to appear on your website. You can see a Contact Us Tab appearing on the right side of all your site pages.
+
+7. Alternatively you can also use the WordPress Shortcode tab under the Form Builder tab and use the code over there in your WordPress pages/posts to make the form appear on selective pages only.
 == Upgrade Notice ==
