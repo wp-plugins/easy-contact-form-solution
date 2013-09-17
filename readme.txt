@@ -31,11 +31,11 @@ This section describes how to install the plugin and get it working.
 1. Visit menu Fgcf contact form to see your entries.
 
 == Screenshots ==
- Go to "Contact Form Builder" tab and create your form by clicking on form fields.
+1. Go to "Contact Form Builder" tab and create your form by clicking on form fields.
 
- After creating your form, Register yourself through a registration popup. Your form is now ready for embedding on your site.
+1. After creating your form, Register yourself through a registration popup. Your form is now ready for embedding on your site.
 
-* In order to add form to your website. Click the Embed link`/assets/screenshot-1.png`.
+1. In order to add form to your website. Click the Embed link.
 
 4. Click on Tabbed Widget and copy the whole code by clicking on "Copy Code" button.
 
