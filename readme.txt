@@ -33,9 +33,9 @@ This section describes how to install the plugin and get it working.
 == Screenshots ==
 1. Go to "Contact Form Builder" tab and create your form by clicking on form fields.
 
-1. After creating your form, Register yourself through a registration popup. Your form is now ready for embedding on your site.
+2. After creating your form, Register yourself through a registration popup. Your form is now ready for embedding on your site.
 
-1. In order to add form to your website. Click the Embed link.
+3. In order to add form to your website. Click the Embed link.
 
 4. Click on Tabbed Widget and copy the whole code by clicking on "Copy Code" button.
 
