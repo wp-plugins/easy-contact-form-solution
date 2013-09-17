@@ -28,8 +28,7 @@ This section describes how to install the plugin and get it working.
 
 1. Upload `Easy-Contact-Form-Solution` folder to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
-1. Visit menu Fgcf contact form to see your entries `/assets/screenshot-1.png`.
+1. Visit menu Fgcf contact form to see your entries `../assets/screenshot-1.png `.
 
 == Screenshots ==
-
 == Upgrade Notice ==
