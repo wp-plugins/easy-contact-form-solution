@@ -27,9 +27,10 @@ Click here to build [Advance Contact Form using FormGet.com](http://formget.com)
 This section describes how to install the plugin and get it working.
 
 http://www.youtube.com/watch?v=G8o8u7OtuZY
-1. Upload `Easy-Contact-Form-Solution` folder to the `/wp-content/plugins/` directory.
-1. Activate the plugin through the 'Plugins' menu in WordPress.
-1. Visit menu Fgcf contact form to see your entries.
+* Upload `Easy-Contact-Form-Solution` folder to the `/wp-content/plugins/` directory.
+* Activate the plugin through the 'Plugins' menu in WordPress.
+* Visit menu Fgcf contact form to see your entries.
+
 http://www.youtube.com/watch?v=G8o8u7OtuZY
 
 == Screenshots ==
