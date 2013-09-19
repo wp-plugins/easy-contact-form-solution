@@ -30,7 +30,7 @@ http://www.youtube.com/watch?v=G8o8u7OtuZY
 1. Upload `Easy-Contact-Form-Solution` folder to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 1. Visit menu Fgcf contact form to see your entries.
-
+http://www.youtube.com/watch?v=G8o8u7OtuZY
 
 == Screenshots ==
 1. Go to "Contact Form Builder" tab and create your form by clicking on form fields.
