@@ -14,7 +14,7 @@ Easy contact Form Solution is a web application that help anyone to build amazin
 	  You can customize your  form to include the correct field for your business and let your customer fill the information you want. Any entries submitted to this form get automatically converted into ticket that you can get working on from your dashboard. A ticket will hold all communication history between  you and your visitors. And, it will be visible to both of you at all times. In order to give your customer the best support experience possible, you need to be able to get working on heir ticket right away with all fact in hand. 
 
 
-** Full list of features: **
+* Full list of features: *
 
 * Easy Contact Form Solution is a popup plugin, that appears on click of button contact form. 
 * It allow you to edit and delete your entries.
