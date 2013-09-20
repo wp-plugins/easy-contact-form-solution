@@ -10,8 +10,8 @@ Extremely simple Contact Form, that help you to manage your contact details.
 == Description ==
 
 Easy contact Form Solution is a web application that help anyone to build amazing online form of any language. Whene you design a form with Easy Contact Form Solution we automatically build database and provide you with support desk also, because we host everythig. This will allow your customer to submit queries to your support desk without having to look around of your self service portal or remembering your support email.
-      In order to setup advance form, you need to build form and put up the embed code (tabbed code/ Embed Form on your site) snippet on embed code section. That will show as a small tab on right side of screen across all pages and will open up a form when clicked.
-	   You can customize your  form to include the correct field for your business and let your customer fill the information you want. Any entries submitted to this form get automatically converted into ticket that you can get working on from your dashboard. A ticket will hold all communication history between  you and your visitors. And, it will be visible to both of you at all times. In order to give your customer the best support experience possible, you need to be able to get working on heir ticket right away with all fact in hand.
+      **In order to setup advance form, you need to build form and put up the embed code (tabbed code/ Embed Form on your site) snippet on embed code section. That will show as a small tab on right side of screen across all pages and will open up a form when clicked.**
+	  ** You can customize your  form to include the correct field for your business and let your customer fill the information you want. Any entries submitted to this form get automatically converted into ticket that you can get working on from your dashboard. A ticket will hold all communication history between  you and your visitors. And, it will be visible to both of you at all times. In order to give your customer the best support experience possible, you need to be able to get working on heir ticket right away with all fact in hand.**
 
 
 Full list of features:
@@ -26,7 +26,13 @@ Full list of features:
 *Search and filter ticket via your site or email.
 *Spam prevention.
 *Attach any file format.
+* Cloud storage of data with complete security.
+* Add multiple agents.
   
+= Demo & User Guide =
+* See demo for [Tabbed code form](http://www.formget.com/).
+* See demo for [shortcode and iframe](http://www.formget.com/contact-us/).
+* [User Guide](http://wordpress.org/plugins/easy-contact-form-solution/screenshots/)
 
 Easy Contact Form Solution is powered by formget.com.
 Click here to build [Advance Contact Form using FormGet.com](http://formget.com).
