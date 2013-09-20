@@ -24,7 +24,7 @@ Easy contact Form Solution is a web application that help anyone to build amazin
 * A ticket will hold all communation history between you and your visitors.
 * And it will be visible to both of you all the times.
 * Search and filter ticket via your site or email.
-* Spam prevention.
+* SPAM prevention.
 * Attach any file format.
 * Cloud storage of data with complete security.
 * Add multiple agents.
