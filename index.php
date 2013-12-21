@@ -3,7 +3,7 @@
   Plugin Name: Easy Contact Form Solution
   Plugin URI: http://www.formget.com
   Description: Extremely simple Contact Form
-  Version: 1.0
+  Version: 1.1
   Author: FormGet
   Author URI: http://www.formget.com
  */
