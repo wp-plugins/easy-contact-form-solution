@@ -1,0 +1,100 @@
+/* CSS Document */ 
+/*-- fgcf.css
+--------------------*/
+div.embed_advance_form_div{
+    display: none;
+}
+div#fgcf-box-popup{
+    display:none;    
+}
+div#fg_close{
+    cursor: pointer;
+}
+div#dvLoading{
+    background:#000 url(../image/load.jpg) no-repeat center center;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    z-index: 1000;
+    left: 50%;
+    top: 50%;
+    margin: -25px 0 0 -25px;       
+}
+div.contac_us_img{
+    overflow: hidden;
+    width:45px;
+    height:200px;
+    position:fixed;
+}
+div#message_display{
+    color:white;
+}
+div#embed_advance_form_div textarea{
+    border:2px solid #002a80;
+    width:700px;
+    border-radius: 5px;
+    text-align: start;
+    text-indent: 0px;
+}
+div#embed_advance_form_div button#embed_code_save{
+    margin-top:5px;
+    margin-left: 705;
+    border-radius: 10px;
+    height:40px;
+    width: 90px;
+    webkit-appearance: push-button;
+    white-space: pre;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    cursor: pointer;
+    background-color: #002a80; 
+    color:white;
+}
+div#embed_advance_form_div button#embed_code_save:hover{
+    background-color: #0074a2;    
+}
+div#embed_advance_form_div div#embed_code_saved{
+    margin-top:10px;
+    font-family: sans-serif;
+    font-size: 120%;
+    font-weight: inherit;
+    color:red;
+}
+div#fg_form_show #link_to_formget{
+    top:"0";
+    font-weight: normal;
+    font-size: 7;
+}
+div#fg_form_show p#link_to_formget a{
+    cursor: pointer;
+}
+div.contac_us_img {
+ display:none;
+}
+div#fgcf-box-popup{
+  background-image: url("../image/overlay.png");
+}
+div#update_div{
+    display: none;
+}
+div#entries_reply{
+  display: none;   
+}
+.formget_form{
+   -webkit-box-shadow: 0 0 10px #fff;
+    box-shadow: 0 0 10px #fff;
+    border: 3px solid white;
+    padding-left:30px;
+    overflow:hidden;
+    background-color: white;
+}
+.formget_form div#fg_close{
+       position: fixed;
+       margin-left:330px;
+       margin-top:-5px;
+}
+div.fgcf_form{
+    background-color: white;
+}
