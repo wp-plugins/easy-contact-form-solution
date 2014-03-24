@@ -1,0 +1,138 @@
+/* CSS Document */ 
+/*-- fgcf.css
+--------------------*/
+div.embed_advance_form_div{
+    display: none;
+}
+div#fgcf-box-popup{
+    display:none;    
+}
+div#fg_close{
+    cursor: pointer;
+}
+div#dvLoading{
+    background:#000 url(../image/load.jpg) no-repeat center center;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    z-index: 1000;
+    left: 50%;
+    top: 50%;
+    margin: -25px 0 0 -25px;       
+}
+div.contac_us_img{
+    overflow: hidden;
+    width:45px;
+    height:200px;
+    position:fixed;
+}
+div#message_display{
+    color:white;
+}
+div#embed_advance_form_div textarea{
+    border:2px solid #0c799e;
+    width:700px;
+    border-radius: 5px;
+    text-align: start;
+    }
+div.example_iframe_div{
+display: none;
+padding-left: 55px;
+}
+div#embed_advance_form_div button#embed_code_save{
+cursor: pointer;
+-moz-box-shadow: inset 0px 1px 0px 0px #8ddefc;
+-webkit-box-shadow: inset 0px 1px 0px 0px #8ddefc;
+box-shadow: inset 0px 1px 0px 0px #8ddefc;
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #59d0f8), color-stop(1, #49c0e8));
+background: -moz-linear-gradient(top, #59d0f8 5%, #49c0e8 100%);
+background: -webkit-linear-gradient(top, #59d0f8 5%, #49c0e8 100%);
+background: -o-linear-gradient(top, #59d0f8 5%, #49c0e8 100%);
+background: -ms-linear-gradient(top, #59d0f8 5%, #49c0e8 100%);
+background: linear-gradient(to bottom, #59d0f8 5%, #49c0e8 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#59d0f8', endColorstr='#49c0e8',GradientType=0);
+background-color: #59d0f8;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+border: 1px solid #0c799e;
+display: inline-block;
+color: #ffffff;
+font-size: 16px;
+font-weight: normal;
+padding: 2px 12px;
+text-decoration: none;
+text-shadow: 0px 1px 0px #34849f;
+margin-right: 10px;
+margin-top: 7px;
+margin-bottom: 20px;
+}
+div#embed_advance_form_div button#embed_code_save:hover{
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #49c0e8), color-stop(1, #59d0f8));
+background: -moz-linear-gradient(top, #49c0e8 5%, #59d0f8 100%);
+background: -webkit-linear-gradient(top, #49c0e8 5%, #59d0f8 100%);
+background: -o-linear-gradient(top, #49c0e8 5%, #59d0f8 100%);
+background: -ms-linear-gradient(top, #49c0e8 5%, #59d0f8 100%);
+background: linear-gradient(to bottom, #49c0e8 5%, #59d0f8 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#49c0e8', endColorstr='#59d0f8',GradientType=0);
+background-color: #49c0e8;
+}
+div#embed_advance_form_div div#embed_code_saved{
+    margin-top:10px;
+    font-family: sans-serif;
+    font-size: 120%;
+    font-weight: inherit;
+    color:red;
+}
+div#fg_form_show #link_to_formget{
+    top:"0";
+    font-weight: normal;
+    font-size: 7;
+}
+div#fg_form_show p#link_to_formget a{
+    cursor: pointer;
+}
+div.contac_us_img {
+ display:none;
+}
+div#fgcf-box-popup{
+  background-image: url("../image/overlay.png");
+}
+div#update_div{
+    display: none;
+}
+div#entries_reply{
+  display: none;   
+}
+.formget_form{
+   -webkit-box-shadow: 0 0 10px #fff;
+    box-shadow: 0 0 10px #fff;
+    border: 3px solid white;
+    padding-left:30px;
+    overflow:hidden;
+    background-color: white;
+}
+.formget_form div#fg_close{
+       position: fixed;
+       margin-left:330px;
+       margin-top:-5px;
+}
+div.fgcf_form{
+    background-color: white;
+}
+#embed_advance_form_div{
+padding-left: 20px;
+height: 400px;
+}
+.support_feedback{
+width: 200px;
+border: 1px solid #0c799e;
+float: right;
+margin-right: 20px;
+background-color: #fff;
+padding: 10px;
+}
+.embed_section{
+width: 700px;
+float: left;
+}
