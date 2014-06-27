@@ -55,7 +55,7 @@ if (!is_admin()) {
         global $wpdb;
         $fg_iframe_form = get_option('fg_embed_code');
         if (!$fg_iframe_form == null) {
-                 $string = "script type";
+                 $string = "script";
     $pos = strpos($fg_iframe_form, $string);
     if ($pos == false) {
          $close_image_path = plugins_url('/image/close.png', __FILE__);
