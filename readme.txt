@@ -69,6 +69,7 @@ This section describes how to install the plugin and get it working.
 
   = 1.4 =
 * Interface CSS improved.
+* Tab issue resolve.
  
  = 1.3 =
 * Database entries issues resolved.
