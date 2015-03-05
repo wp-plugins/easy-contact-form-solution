@@ -50,19 +50,7 @@ This section describes how to install the plugin and get it working.
 
 == Screenshots ==
 
-1. Go to "Contact Form Builder" tab and create your form by clicking on form fields.
-
-2. After creating your form, Register yourself through a registration popup. Your form is now ready for embedding on your site.
-
-3. In order to add form to your website. Click the Embed link.
-
-4. Click on Tabbed Widget and copy the whole code by clicking on "Copy Code" button.
-
-5. Paste the copied code on "Emded Code" section in the plugin which appears on the "FormGet Contact Form" plugin dashboard inside WordPress Admin area. 
-
-6. Your contact form will start to appear on your website. 
-
-7. You can see a Contact Us Tab appearing on the right side of all your site pages.
+1. Screenshots
  
  
  == Changelog ==
